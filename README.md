@@ -1,1 +1,1 @@
-# Turtle-Race
+A turtle game making use of tkinter
